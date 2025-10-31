@@ -1,8 +1,8 @@
-# Customer Purchase Analysis — BANL 6625 Final Exam
+# Customer Purchase Analysis 
 
 **Author:** Muskan Jiwani  
 **Tools & Technologies:** R, ggplot2, caret, rpart  
-**Course:** Business Analytics (BANL 6625), University of New Haven  
+**Course:** Business Analytics , University of New Haven  
 
 ---
 
@@ -48,7 +48,9 @@ The analysis was performed in RStudio, involving end-to-end data preparation, mo
 ---
 
 ## Files
-- `Customer_Purchase_Analysis_Muskan_Jiwani.pdf` — Full project report and analysis.  
+- Customer_Purchase_Analysis_Muskan_Jiwani.pdf — Full project report and analysis.  
+[View Full Project Report (PDF)](Customer_Purchase_Analysis_Muskan_Jiwani.pdf)
+
 
 ---
 
