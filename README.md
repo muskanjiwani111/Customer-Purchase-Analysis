@@ -55,8 +55,6 @@ The analysis was performed in RStudio, involving end-to-end data preparation, mo
 
 ---
 
----
-
 ## Scripts
 - [Customer_Purchase_Analysis.R](scripts/Customer_Purchase_Analysis.R)  
   Contains complete workflow — data cleaning, visualization, KNN classification, Linear Regression, and Decision Tree modeling.
