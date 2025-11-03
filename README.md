@@ -1,4 +1,4 @@
-# Customer Purchase Analysis 
+# Customer Purchase Analysis - Data Mining Project
 
 **Author:** Muskan Jiwani  
 **Tools & Technologies:** R, ggplot2, caret, rpart  
